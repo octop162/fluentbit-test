@@ -1,0 +1,3 @@
+{"color": "blue", "label": {"name": null}}
+{"color": "red", "label": {"name": "abc"}, "meta": "data"}
+{"color": "green", "label": {"name": "abc"}, "meta": null}

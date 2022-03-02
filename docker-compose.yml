@@ -6,3 +6,4 @@ services:
     volumes:
       - ./fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf
       - ./data.log:/tmp/data.log
+      - ./output:/tmp/output

@@ -1,3 +1,10 @@
 {"color": "blue", "label": {"name": null}}
 {"color": "red", "label": {"name": "abc"}, "meta": "data"}
 {"color": "green", "label": {"name": "abc"}, "meta": null}
+{"color": "orange", "label": {"name": "abc"}, "meta": null}
+{"color": "biolet", "label": {"name": "abc"}, "meta": "data"}
+{"color": "blue", "label": {"name": null}}
+{"color": "red", "label": {"name": "abc"}, "meta": "data"}
+{"color": "green", "label": {"name": "abc"}, "meta": null}
+{"color": "orange", "label": {"name": "abc"}, "meta": null}
+{"color": "biolet", "label": {"name": "abc"}, "meta": "data"}

@@ -5,5 +5,6 @@ services:
     image: fluent/fluent-bit
     volumes:
       - ./fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf
+      - ./parser.conf:/fluent-bit/etc/parser.conf
       - ./data.log:/tmp/data.log
       - ./output:/tmp/output
